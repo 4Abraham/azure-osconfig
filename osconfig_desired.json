@@ -1,11 +1,11 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "mkdir new",
-            "arguments": "mkdir local",
+            "commandId": "gitDcReboot",
+            "arguments": "",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 3
+            "action": 1
         }
     }
 }
