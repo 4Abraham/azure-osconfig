@@ -1,11 +1,11 @@
 {
-    "CommandRunner": {
-        "commandArguments": {
-            "commandId": "gitDcShutdownAgain",
-            "arguments": "",
-            "timeout": 15,
-            "singleLineTextResult": true,
-            "action": 2
+    "improper": {
+        "improper": {
+            "improper": "improper",
+            "improper": "",
+            "improper": 15,
+            "improper": true,
+            "improper": 2       
         }
     }
 }
