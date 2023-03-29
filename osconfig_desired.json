@@ -1,6 +1,30 @@
 {
-    "UnknownModule": {
-        "UnknownFeild1" : "UnkownValue",
-        "UnknownFeild2" : 0
-    }
+    "CommandRunner": {
+        "commandArguments": {
+            "commandId": "cmd",
+            "arguments": "pwd",
+            "timeout": 15,
+            "singleLineTextResult": true,
+            "action": 3
+        }
+    },
+	"Adhs": {
+		"desiredOptIn": 1
+	},
+	"DeliveryOptimization": {
+		 "desiredDeliveryOptimizationPolicies": {
+	 	 "cacheHost": "192.168.0.103",
+		 "cacheHostSource": 2,
+		 "cacheHostFallback": 100,
+		 "percentageDownloadThrottle": 10
+		}
+	},
+	"Ztsi": { 
+	       "desiredEnabled": false, 
+      	 "desiredMaxManualAttestationsPerDay": 13, 
+        	 "desiredMaxScheduledAttestationsPerDay": 13 
+    }, 
+	"HostName": {
+		"desiredName": "local"
+		}
 }
