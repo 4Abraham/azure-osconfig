@@ -1,8 +1,8 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "pwd",
-            "arguments": "pwd",
+            "commandId": "2",
+            "arguments": "mkdir gitops",
             "timeout": 15,
             "singleLineTextResult": true,
             "action": 3
