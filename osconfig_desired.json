@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitopsReboot",
+            "commandId": "gitopsRebootAgain",
             "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
