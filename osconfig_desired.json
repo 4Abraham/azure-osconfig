@@ -1,11 +1,11 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitopsRebootAgain",
+            "commandId": "gitopsShutdown",
             "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 1
+            "action": 2
         }
     }
 }
