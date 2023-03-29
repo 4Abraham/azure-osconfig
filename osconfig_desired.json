@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitDcReboot",
+            "commandId": "gitDcRebootAgain",
             "arguments": "",
             "timeout": 15,
             "singleLineTextResult": true,
