@@ -1,11 +1,11 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitDcRebootAgain",
+            "commandId": "gitDcShutdown",
             "arguments": "",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 1
+            "action": 2
         }
     }
 }
