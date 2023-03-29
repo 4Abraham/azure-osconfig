@@ -1,1 +1,6 @@
-not a json
+{
+    "UnknownModule": {
+        "UnknownFeild1" : "UnkownValue",
+        "UnknownFeild2" : 0
+    }
+}
