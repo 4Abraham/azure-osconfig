@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitreboot",
+            "commandId": "gitrebootAgain",
             "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
