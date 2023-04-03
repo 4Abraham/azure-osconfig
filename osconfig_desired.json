@@ -1,11 +1,30 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitopsShutdown",
-            "arguments": " ",
+            "commandId": "gitcommand",
+            "arguments": "date",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 2
+            "action": 3
         }
-    }
+    },
+	"Adhs": {
+		"desiredOptIn": 2
+	},
+	"DeliveryOptimization": {
+		 "desiredDeliveryOptimizationPolicies": {
+	 	 "cacheHost": "192.168.0.103",
+		 "cacheHostSource": 2,
+		 "cacheHostFallback": 100,
+		 "percentageDownloadThrottle": 10
+		}
+	},
+	"Ztsi": { 
+	       "desiredEnabled": false, 
+      	 "desiredMaxManualAttestationsPerDay": 13, 
+        	 "desiredMaxScheduledAttestationsPerDay": 13 
+    }, 
+	"HostName": {
+		"desiredName": "localUser"
+		}
 }
