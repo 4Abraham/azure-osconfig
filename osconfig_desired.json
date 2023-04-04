@@ -1,11 +1,11 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "mkdirgit",
-            "arguments": "mkdir gitManage",
+            "commandId": "gitReboot",
+            "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 3
+            "action": 1
         }
     }
 }
