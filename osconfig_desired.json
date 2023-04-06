@@ -1,11 +1,11 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitShtdn",
-            "arguments": " ",
+            "commandId": "gitComand",
+            "arguments": "date",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 2
+            "action": 3
         }
     }
 }
