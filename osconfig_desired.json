@@ -1,1 +1,5 @@
-not a json
+{
+    "improper": {
+		"desiredOptIn": 1
+	}
+}
