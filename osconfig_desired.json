@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "Git",
+            "commandId": "7",
             "arguments": "date",
             "timeout": 15,
             "singleLineTextResult": true,
