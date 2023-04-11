@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "7",
+            "commandId": "gitShdn",
             "arguments": "date",
             "timeout": 15,
             "singleLineTextResult": true,
