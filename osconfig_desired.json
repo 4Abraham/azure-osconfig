@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "cmd",
+            "commandId": "git",
             "arguments": "pwd",
             "timeout": 15,
             "singleLineTextResult": true,
@@ -13,18 +13,18 @@
 	},
 	"DeliveryOptimization": {
 		 "desiredDeliveryOptimizationPolicies": {
-	 	 "cacheHost": "192.168.0.103",
+	 	 "cacheHost": "127.0.0.1",
 		 "cacheHostSource": 2,
 		 "cacheHostFallback": 100,
-		 "percentageDownloadThrottle": 10
+		 "percentageDownloadThrottle": 50
 		}
 	},
 	"Ztsi": { 
 	       "desiredEnabled": false, 
-      	 "desiredMaxManualAttestationsPerDay": 13, 
-        	 "desiredMaxScheduledAttestationsPerDay": 13 
+      	 "desiredMaxManualAttestationsPerDay": 18, 
+        	 "desiredMaxScheduledAttestationsPerDay": 15 
     }, 
 	"HostName": {
-		"desiredName": "local"
+		"desiredName": "gituser"
 		}
 }
