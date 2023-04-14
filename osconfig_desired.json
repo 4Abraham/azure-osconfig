@@ -1,8 +1,8 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "git1",
-            "arguments": "ls",
+            "commandId": "git2",
+            "arguments": "date",
             "timeout": 15,
             "singleLineTextResult": true,
             "action": 3
