@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitReboot",
+            "commandId": "gitRebootAgain",
             "arguments": "mkdir dirremote",
             "timeout": 15,
             "singleLineTextResult": true,
