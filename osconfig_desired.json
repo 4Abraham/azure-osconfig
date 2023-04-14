@@ -1,8 +1,8 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitShutdown",
-            "arguments": "mkdir dirremote",
+            "commandId": "gitShutdownAgain",
+            "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
             "action": 2
