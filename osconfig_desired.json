@@ -5,7 +5,7 @@
             "arguments": "mkdir dirremote",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 3
+            "action": 1
         }
 	}
 }
