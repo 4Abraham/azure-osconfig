@@ -1,8 +1,8 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "git2",
-            "arguments": "date",
+            "commandId": "git3",
+            "arguments": "mkdir dirremote",
             "timeout": 15,
             "singleLineTextResult": true,
             "action": 3
