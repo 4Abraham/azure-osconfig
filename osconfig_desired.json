@@ -1,11 +1,1 @@
-{
-    "improper": {
-        "commandArguments": {
-            "commandId": "gitShutdownAgain",
-            "arguments": " ",
-            "timeout": 15,
-            "singleLineTextResult": true,
-            "action": 2
-        }
-	}
-}
+not a json
