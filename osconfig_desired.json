@@ -1,11 +1,11 @@
 {
-    "CommandRunner": {
+    "improper": {
         "commandArguments": {
-            "commandId": "gitShutdownAgain",
+            "commandId": "improper",
             "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 2
+            "action": 3
         }
     }
 }
