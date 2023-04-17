@@ -1,11 +1,11 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "sameid",
-            "arguments": "pwd",
+            "commandId": "gitReboot",
+            "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
-            "action": 3
+            "action": 1
         }
     }
 }
