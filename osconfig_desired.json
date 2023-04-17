@@ -1,7 +1,7 @@
 {
     "CommandRunner": {
         "commandArguments": {
-            "commandId": "gitShutdown",
+            "commandId": "gitShutdownAgain",
             "arguments": " ",
             "timeout": 15,
             "singleLineTextResult": true,
