@@ -1,1 +1,11 @@
-not a json
+{
+    "CommandRunner": {
+        "commandArguments": {
+            "commandId": "pwd",
+            "arguments": "pwd",
+            "timeout": 15,
+            "singleLineTextResult": true,
+            "action": 3
+        }
+    }
+}
